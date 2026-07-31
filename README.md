@@ -45,13 +45,6 @@
 
   ---
 
-  ## Featured Projects
-  
-  - **stock-pilot** *(in progress)* — Multi-store stock & price sync. Hexagonal architecture and distributed-systems patterns (idempotency, Outbox, retries with backoff, observability),
-  documented with ADRs. *(repo coming soon)*
-
-  ---
-
   ## Contact
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denilson-jhon-trillo-hilario-2b36a22a4)
